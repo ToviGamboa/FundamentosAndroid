@@ -16,6 +16,7 @@
     <TextView
         android:id="@+id/textView"
         style="@style/TextDesing"
+        android:textSize="65sp"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:gravity="center"

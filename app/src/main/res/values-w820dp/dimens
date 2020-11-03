@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="activity_margin_horizontal">64dp</dimen>
-    <dimen name="text_size_default">32sp</dimen>
-    <dimen name="text_size_title_actionbar">32sp</dimen>
-</resources>

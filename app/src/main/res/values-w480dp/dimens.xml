@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_title_actionbar">24sp</dimen>
+
+    <dimen name="activity_margin_horizontal">40dp</dimen>
+    <dimen name="activity_margin_top">128dp</dimen>
+
+    <dimen name="radius_btn">10dp</dimen>
+    <dimen name="stroke_widht_btn_relleno">1dp</dimen>
+
+    <dimen name="margin_top_btn">128dp</dimen>
+
+    <dimen name="text_size_default">40sp</dimen>
+    <dimen name="text_secundario">20sp</dimen>
+    <dimen name="padding_btn">12dp</dimen>
+
+    <!-- LANDSCAPE VARIATION-->
+    <dimen name="activity_margin_top_land">12dp</dimen>
+    <dimen name="margin_top_btn_land">12dp</dimen>
+</resources>

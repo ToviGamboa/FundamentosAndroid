@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- LO USO PARA CONTROLAR QUE CAMBIE EL COLOR DEL TEXTO EN EL BOTON -->
+    <!-- AL PRESIONARLO -->
+    <item android:color="@color/colorAccent" android:state_pressed="true" />
+    <item android:color="@color/colorBlanco" />
+</selector>
