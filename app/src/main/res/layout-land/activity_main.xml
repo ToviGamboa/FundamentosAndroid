@@ -16,6 +16,10 @@
     <TextView
         android:id="@+id/textView"
         style="@style/TextDesing"
+        app:autoSizeMaxTextSize="300sp"
+        app:autoSizeMinTextSize="36sp"
+        app:autoSizeStepGranularity="2sp"
+        app:autoSizeTextType="uniform"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:gravity="center"
